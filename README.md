@@ -5,6 +5,7 @@ Hi, I’m Archita Keni — a Senior Software Quality Engineer with 8+ years of e
 I’ve worked with organizations including Microsoft, cPanel, and Accenture, contributing to release readiness, bug triage, API validation, and scalable QA processes for products used by millions of users.
 
 What I Do 
+
 Design and execute test strategies for large-scale software systems
 Perform end-to-end, regression, API, and cross-platform testing
 Drive release readiness and go/no-go validation decisions
@@ -17,6 +18,7 @@ Explore AI-assisted QA workflows, LLM evaluation, RAG systems, and intelligent t
 Most recently at Microsoft, I supported Minecraft Marketplace commerce and subscription systems, contributing to quality validation for large-scale seasonal releases, experimentation systems, and platform integrations across Xbox, PlayStation, Windows, and Nintendo Switch.
 
 Technical Skills & Tools
+
 QA & Testing
 Functional Testing
 Regression Testing
@@ -49,6 +51,7 @@ Azure AI
 IBM Watson AI
 
 Current Career Focus
+
 
 I am currently in a transition phase after my recent role at Microsoft and actively focusing on upskilling in:
 
